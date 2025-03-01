@@ -4,7 +4,6 @@
 
   Foodie is a fully responsive fast food website designed for food enthusiasts and businesses. <br />It features a modern, sleek design built with **HTML**, **CSS**, and **JavaScript**. <br />The website adapts perfectly to all devices, making it a great choice for showcasing fast food menus and services.
 
-  <a href="https://amancore.github.io/foodie/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
