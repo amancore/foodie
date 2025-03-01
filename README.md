@@ -22,10 +22,6 @@
 
 ![Foodie Desktop Demo](./images1/desktop.png "Desktop Demo")
 
-**Mobile View:**
-
-![Foodie Mobile Demo](./images1/mobile.png "Mobile Demo")
-
 ### 🛠 Prerequisites
 
 Before you get started, ensure you have the following installed:
